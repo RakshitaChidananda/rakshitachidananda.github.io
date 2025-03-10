@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rakshita Chidananda | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Rakshita Chidananda</h1>
+        <p>Data Analytics Engineer | Machine Learning | Data Mining | GIS | Satellite Image Processing</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Master of Science in Data Analytics Engineering at George Mason University. Passionate about data-driven decision-making, machine learning, and remote sensing technologies.</p>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Graduate Data Assistant | George Mason University</strong> (March 2024 – Present)</li>
+            <li><strong>Junior Research Fellow | CIIRC, Bangalore</strong> (May 2023 – Oct 2023)</li>
+            <li><strong>Intern | CIIRC, Bangalore</strong> (Aug 2022 – Sept 2022)</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Velocity Estimation of Lambert Glacier</li>
+            <li>Estimation of Volume and Depth of Melt Ponds over Nivlisen Ice Shelf</li>
+            <li>Evaluating Line-of-Sight Velocity Over Arctic Glaciers</li>
+            <li>Automated Classification and Labeling of Solar Coronal Holes Using SDO Data</li>
+        </ul>
+    </section>
+    
+    <section id="publications">
+        <h2>Publications</h2>
+        <ul>
+            <li><a href="https://doi.org/10.1007/978-981-19-9819-5_24">Velocity Estimation of East Antarctic Glacier with SAR Offset Tracking</a> - Advances in Intelligent Systems and Computing</li>
+            <li><a href="https://doi.org/10.1007/978-981-19-8338-2_33">Flood Mapping and Damage Assessment of Odisha During Fani Cyclone</a> - Lecture Notes in Electrical Engineering</li>
+            <li><a href="https://doi.org/10.3390/rs15245676">Decoding the Dynamics of Climate Change Impact</a> - Remote Sensing</li>
+            <li><a href="https://www.researchgate.net/publication/377065899">Antarctic Ice Sheet Surface Mass Balance Using UAV-based DEM</a> - CCIP 2023</li>
+            <li><a href="https://www.researchgate.net/publication/377118361">Estimation of Glacier Velocity of Ny-Ålesund, Arctic</a> - ResearchGate</li>
+            <li><a href="https://www.researchgate.net/publication/377065911">Exploring Antarctic Lake Expansion with UAV Data Processing</a> - CCIP 2023</li>
+            <li><a href="https://doi.org/10.1007/978-981-99-9235-5_34">Estimating Depth and Volume of Melt Pond Using ICESAT-2</a> - Lecture Notes in Electrical Engineering</li>
+            <li><a href="https://www.researchgate.net/publication/383186120">Monitoring of Melt Ponds and Supra-Glacial Lakes over Nivlisen Ice Shelf</a> - ResearchGate</li>
+            <li><a href="https://journals.gmu.edu/index.php/jssr/article/view/4334">An Efficient System for Labeling Solar Coronal Hole Images</a> - Journal of Student-Scientists’ Research</li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <h3>Technical Skills</h3>
+        <ul>
+            <li>Programming: Python, SQL, R</li>
+            <li>Databases: MySQL, PostgreSQL, SSMS</li>
+            <li>Data Analytics & Mining: Weka, Excel</li>
+            <li>Machine Learning: Regression, Decision Trees, Random Forest, U-Net, CNN, Mask R-CNN</li>
+            <li>Cloud Platforms: AWS</li>
+            <li>Satellite Image Processing: ArcGIS, QGIS, SNAP ESA, ArcGISPro</li>
+            <li>UAV & GPS: WebODM, Agisoft, Handheld GPS & DGPS</li>
+            <li>Visualization: Power BI, Tableau</li>
+            <li>Technical Writing: Research papers, Reports, Presentations</li>
+        </ul>
+        
+        <h3>Soft Skills</h3>
+        <ul>
+            <li>Problem Solving & Critical Thinking</li>
+            <li>Research & Analytical Skills</li>
+            <li>Collaboration & Presentation</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:rchidana@gmu.edu">rchidana@gmu.edu</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/rakshita-c-9421631b9/">LinkedIn Profile</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Rakshita Chidananda | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
